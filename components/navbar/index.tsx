@@ -17,15 +17,17 @@ function Navbar() {
 
   return (
     <div className={styles.navbar}>
-      <h1 className={styles.name}>
-        <a href="">Human Security</a>
-      </h1>
-      <div className={styles.links}>
-        {/* <Link href="/" className={styles.name}>
-          Home
-        </Link> */}
-        <Link href="/members">Members</Link>
-      </div>
+      <ul className={styles.ul}>
+        <li>
+          <h1 className={styles.name}>
+            <a href="">Human Security</a>
+          </h1>
+        </li>
+
+        <li className={styles.links}>
+          <Link href="/members">Members</Link>
+        </li>
+      </ul>
     </div>
   );
 }
