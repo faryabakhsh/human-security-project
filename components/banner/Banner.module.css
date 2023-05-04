@@ -1,0 +1,42 @@
+.layout {
+  line-height: 1.5;
+  padding-bottom: 8rem;
+  margin: 0 auto;
+  background-image: linear-gradient(
+    to right,
+    #56317a 0%,
+    #3d99be 31%,
+    #56317a 100%
+  );
+
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #17092f;
+}
+
+.h1 {
+  font-family: "calibri", Tahoma, Geneva, Verdana, sans-serif;
+
+  color: #17092f;
+  height: 1.5rem;
+  font: Merriweather;
+  font-size: 60px;
+
+  font-weight: bold;
+}
+
+.prompt {
+  width: 70%;
+  font-size: 20px;
+  font-weight: 600;
+  color: #261636;
+  font: Poppins;
+}
+
+.button {
+}
