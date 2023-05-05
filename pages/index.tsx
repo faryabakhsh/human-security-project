@@ -3,12 +3,22 @@ import Image from "next/image";
 import { Inter } from "next/font/google";
 
 import Navbar from "../components/navbar";
-import Homecard from "@/components/homecard";
+import Card from "@/components/Card";
 import Banner from "@/components/banner";
+import articles from "../data/blogs.json";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function Home() {
+export async function getStaticProps(context: any) {
+  return {
+    props: {
+      articles,
+    },
+  };
+}
+
+export default function Home(props: any) {
+  console.log("props", props);
   return (
     <>
       <Head>
@@ -21,7 +31,19 @@ export default function Home() {
         {/*         
           <Navbar /> */}
         <Banner />
-        <Homecard />
+
+        {articles.map((article) => {
+          return (
+            <Card
+              key={article.id}
+              name={article.name}
+              imgUrl={article.imgUrl}
+              href={article.href}
+              author={article.author}
+              prompt={article.prompt}
+            />
+          );
+        })}
       </main>
     </>
   );
