@@ -2,6 +2,12 @@
   line-height: 1.5;
   padding-bottom: 8rem;
   margin: 0 auto;
+  /* background-image: url("/poster.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; */
   background-image: linear-gradient(
     to right,
     #56317a 0%,

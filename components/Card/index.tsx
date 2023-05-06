@@ -19,20 +19,19 @@ const Card = (props: {
               <h3 className={styles.h3}>{props.name}</h3>
 
               <div className={styles.blackbox}>
-                <p>
-                  {props.prompt}
-                  <Link
-                    style={{
-                      border: "none",
-                      backgroundColor: "white",
-                      color: "blue",
-                      cursor: "pointer",
-                    }}
-                    href={props.href}
-                  >
-                    read more
-                  </Link>
-                </p>
+                <p>{props.prompt}</p>
+
+                <Link
+                  style={{
+                    border: "none",
+                    backgroundColor: "white",
+                    color: "blue",
+                    cursor: "pointer",
+                  }}
+                  href={props.href}
+                >
+                  see bibliography
+                </Link>
               </div>
               <br />
               <h5 className={styles.h5}>Author:</h5>
@@ -42,7 +41,7 @@ const Card = (props: {
             </div>
             <Image
               src={props.imgUrl}
-              alt="Screenshot alfabolt."
+              alt="img url"
               width={400}
               height={400}
               className={styles.projectImg}

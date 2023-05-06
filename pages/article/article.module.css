@@ -1,0 +1,9 @@
+.sectionblack {
+  background-color: #101318;
+  margin: 0;
+  padding: 0;
+  background-size: contain;
+  padding-left: 4rem;
+  /* padding: 2rem; */
+  text-align: left;
+}

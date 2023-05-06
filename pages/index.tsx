@@ -5,14 +5,14 @@ import { Inter } from "next/font/google";
 import Navbar from "../components/navbar";
 import Card from "@/components/Card";
 import Banner from "@/components/banner";
-import articles from "../data/blogs.json";
+import articleData from "../data/blogs.json";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export async function getStaticProps(context: any) {
   return {
     props: {
-      articles,
+      articleData,
     },
   };
 }
@@ -32,13 +32,13 @@ export default function Home(props: any) {
           <Navbar /> */}
         <Banner />
 
-        {articles.map((article) => {
+        {articleData.map((article) => {
           return (
             <Card
               key={article.id}
               name={article.name}
               imgUrl={article.imgUrl}
-              href={article.href}
+              href={`/article/${article.id}`}
               author={article.author}
               prompt={article.prompt}
             />

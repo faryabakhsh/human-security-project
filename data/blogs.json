@@ -6,7 +6,19 @@
     "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
     "author": "Aimun Ilyas Malhi",
     "blog": "",
-    "href": ""
+    "bibliography": [
+      "Clapham, C. (1985). Third World Politics:. Madison: Madison: University of Wisconsin Press.",
+      "Huntington, S. P. (1957). The Soldier and the State. Cambridge: Cambridge: The Belknap Press of Harvard University Press.",
+
+      "Huntington, S. P. (1996). Reforming Civil-Military Relations. Baltimore: The Johns Hopkins University press.",
+      "Jalal, A. (1990). The State of Martial Rule: The Origins of Pakistan's Political Economy of Defence. Cambridge: Cambridge: Cambridge University Press",
+      "Khan, N. (2010). Civil-military relations: A case study of Pakistan. Las Vegas. Siddiqa A. (2007). Military. London: Pluto Press.",
+      "Proven ability to excel within an 'agile' environment",
+      "Marketing & Content Generation skills",
+      "Analytical & problem solving skills (Object Oriented, etc)",
+      "BS or MS in computer science, information systems, or equivalent experience",
+      "Interpersonal skills that peers would describe as 'charismatic'"
+    ]
   },
   {
     "id": 1,
@@ -15,7 +27,7 @@
     "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
     "author": "Farya Bakhsh",
     "blog": "",
-    "href": ""
+    "bibliography": ""
   },
   {
     "id": 2,
@@ -24,7 +36,7 @@
     "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
     "author": "Hurria bin Abdullah",
     "blog": "",
-    "href": ""
+    "bibliography": ""
   },
   {
     "id": 3,
@@ -33,7 +45,7 @@
     "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
     "author": "Wajahat Kareem",
     "blog": "",
-    "href": ""
+    "bibliography": ""
   },
   {
     "id": 4,
@@ -42,7 +54,7 @@
     "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
     "author": "Laraib Shahid",
     "blog": "",
-    "href": ""
+    "bibliography": ""
   },
   {
     "id": 5,
@@ -51,6 +63,6 @@
     "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
     "author": "Allah Bachayo",
     "blog": "",
-    "href": ""
+    "bibliography": ""
   }
 ]
