@@ -30,11 +30,11 @@ const Card = (props: {
                   }}
                   href={props.href}
                 >
-                  see bibliography
+                  view more
                 </Link>
               </div>
               <br />
-              <h5 className={styles.h5}>Author:</h5>
+              {/* <h5 className={styles.h5}>Author:</h5> */}
               <ul className={styles.ul}>
                 <p>{props.author}</p>
               </ul>

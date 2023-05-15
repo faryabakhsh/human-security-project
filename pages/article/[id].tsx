@@ -9,6 +9,8 @@ import {
   ReactPortal,
 } from "react";
 
+import Image from "next/image";
+
 export function getStaticProps(staticProps: { params: any }) {
   const params = staticProps.params;
   return {
@@ -39,6 +41,7 @@ const article = (props: {
     name: string;
     id: number;
     bibliography: any;
+    imgUrl: string;
   };
 }) => {
   // eslint-disable-next-line react-hooks/rules-of-hooks
@@ -50,8 +53,23 @@ const article = (props: {
   return (
     <div className={styles.sectionblack}>
       {/* article page {router.query.id} */}
-      <Link href="/">back to home</Link>
-      <p style={{ color: "white" }}>{props.article.name}</p>
+      <Link style={{ color: "rgb(161, 9, 161)" }} href="/">
+        back to home
+      </Link>
+      <p style={{ color: "#3d99be", fontSize: "40px", fontWeight: "bold" }}>
+        {props.article.name}
+      </p>
+      <Image
+        src={props.article.imgUrl}
+        alt="img url"
+        width={800}
+        height={800}
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+        }}
+      />
       <h2 style={{ color: "white" }}>Bibliography</h2>
       <div style={{ color: "white" }} className={styles.skillsList}>
         {props.article.bibliography.map(

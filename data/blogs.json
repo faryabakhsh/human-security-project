@@ -1,66 +1,81 @@
 [
   {
     "id": 0,
-    "name": "The Americas",
-    "imgUrl": "/americas.jpg",
-    "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+    "name": "Middle East & North Africa",
+    "imgUrl": "/aimunposter.jpeg",
+    "prompt": "It’s no news that environment is an essential part of our lives, now more than ever. It’s deeper and more complex than simply planting trees or not cutting down trees. It’s effects ranges from the quality of the air we breathe to the amount and quality of food and water we consume everyday.",
     "author": "Aimun Ilyas Malhi",
     "blog": "",
     "bibliography": [
-      "Clapham, C. (1985). Third World Politics:. Madison: Madison: University of Wisconsin Press.",
-      "Huntington, S. P. (1957). The Soldier and the State. Cambridge: Cambridge: The Belknap Press of Harvard University Press.",
+      "http://www.ambasciatapalestina.com/en/files/2014/05/Water-In-Palestine.pdf#:~:text=As%20a%20result%2C%20each%20Palestinian%20living%20in%20the,Organization%20as%20the%20minimum%20per%20capita%20water%20availability",
+      "https://issuu.com/zoienvironment/docs/palestine",
 
-      "Huntington, S. P. (1996). Reforming Civil-Military Relations. Baltimore: The Johns Hopkins University press.",
-      "Jalal, A. (1990). The State of Martial Rule: The Origins of Pakistan's Political Economy of Defence. Cambridge: Cambridge: Cambridge University Press",
-      "Khan, N. (2010). Civil-military relations: A case study of Pakistan. Las Vegas. Siddiqa A. (2007). Military. London: Pluto Press.",
-      "Proven ability to excel within an 'agile' environment",
-      "Marketing & Content Generation skills",
-      "Analytical & problem solving skills (Object Oriented, etc)",
-      "BS or MS in computer science, information systems, or equivalent experience",
-      "Interpersonal skills that peers would describe as 'charismatic'"
+      "https://www.unep.org/resources/assessment/environmental-assessment-gaza-strip",
+      "https://palestine.un.org/en/185047-fact-sheet-environment-palestine#:~:text=It%20is%20one%20of%20the%20countries%20most%20vulnerable,lack%20of%20sovereignty%20and%20its%20limited%20financial%20assets",
+      "https://www.unep.org/explore-topics/disasters-conflicts/where-we-work/palestine",
+      "https://www.unep.org/resources/report/state-environment-and-outlook-report-occupied-palestinian-territory-2020",
+      "https://sdgs.un.org/statements/palestine-8445#:~:text=Drought%20and%20desertification%20in%20Palestine%20is%20due%20to,4.3%25%20in%201998%20to%20below%201.5%25%20in%202004",
+      "https://pcbs.gov.ps/Portals/_pcbs/PressRelease/Envirm-DayE.pdf",
+      "https://oec.world/en/profile/country/pse/"
     ]
   },
   {
     "id": 1,
-    "name": "Europe",
-    "imgUrl": "/europe.jpg",
-    "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+    "name": "South & Central Asia",
+    "imgUrl": "/faryaposter2.jpg",
+    "prompt": "Pakistan has faced significant political insecurity throughout its history. Several factors contribute to this insecurity, including internal power struggles, regional conflicts, religious extremism, and socio-economic challenges. Pakistan has experienced multiple military coups and interventions since its independence in 1947. The military has directly ruled the country for long periods, undermining civilian governance and democratic institutions. These interventions have created an atmosphere of political instability and uncertainty. Pakistan is a diverse country with various ethnic and regional groups. Tensions between different ethnicities and provinces have led to political instability. Balochistan, for example, has witnessed a long-standing separatist movement due to perceived political and economic marginalization. ",
     "author": "Farya Bakhsh",
     "blog": "",
-    "bibliography": ""
+    "bibliography": [
+      "https://www.brookings.edu/blog/order-from-chaos/2023/01/13/pakistan-five-major-issues-to-watch-in-2023/",
+      "https://www.bmz.de/en/countries/pakistan/political-situation-55752",
+      "https://www.usip.org/publications/2023/01/current-situation-pakistan",
+      "https://www.aninews.in/news/world/asia/pakistan-political-instability-causing-irreparable-damage-to-economy20230129170641/",
+      "https://www.thefridaytimes.com/2022/12/30/the-root-cause-of-all-problems-in-pakistan-is-political-instability/"
+    ]
   },
   {
     "id": 2,
-    "name": "Middle East & North Africa",
-    "imgUrl": "/Iraq.jpeg",
-    "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+    "name": "Europe",
+    "imgUrl": "/hurriaposter.png",
+    "prompt": "Personal security refers to the measures and practices taken by individuals to protect themselves, their property, and their information from various risks and threats. It encompasses a range of strategies and precautions designed to ensure the safety, well-being, and privacy of an individual. In other words, personal security aims to create a sense of safety and reduce the vulnerability of individuals to physical harm, theft, privacy breaches, and other threats to their well-being. The major indicators of personal security, explained by the UN, are freedom from violence, access to justice, rule of law, disarmament and arms control, community safety, gender equality and Women's Empowerment, and protection of vulnerable groups. Due to the Russian invasion of Ukraine, the Personal Security issue is very much prevalent in Ukraine. The major Personal security issues in Ukraine are threats to life, physical violence, gender-based violence, children, internally displaced people, and other war-related humanitarian crises.",
     "author": "Hurria bin Abdullah",
     "blog": "",
-    "bibliography": ""
+    "bibliography": [
+      "https://www.statista.com/statistics/1293492/ukraine-war-casualties/",
+      "https://www.pbs.org/newshour/politics/watch-live-survivors-of-russian-war-crimes-in-ukraine-testify-in-house-hearing",
+      "https://disasterphilanthropy.org/disasters/ukraine-humanitarian-crisis/?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF0X5Otgw4ob6Ixm3eSt7JGhSReKXedG3NWxRrCE9R781Kmgwi2yse8aAq76EALw_wcB",
+      "https://www.gdrc.org/sustdev/husec/z-indicators.html"
+    ]
   },
   {
     "id": 3,
     "name": "Sub-Saharan Africa",
+    "imgUrl": "/laraibposter2.jpeg",
+    "prompt": " Nigeria has a high poverty rate, with a large portion of the population living below the poverty line. Limited financial resources make it difficult for people to afford an adequate and nutritious diet.",
+    "author": "Laraib Shahid",
+    "blog": "",
+    "bibliography": [
+      "https://www.elibrary.imf.org/view/journals/018/2023/018/article-A001-en.xml",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9920356/",
+      "https://www.researchgate.net/publication/23511434_Determinants_and_Measurements_of_Food_Insecurity_in_Nigeria_Some_Empirical_Policy_Guide"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "The Americas",
     "imgUrl": "/Africa.jpg",
-    "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+    "prompt": "",
     "author": "Wajahat Kareem",
     "blog": "",
     "bibliography": ""
   },
-  {
-    "id": 4,
-    "name": "South & Central Asia",
-    "imgUrl": "/southasia.jpg",
-    "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
-    "author": "Laraib Shahid",
-    "blog": "",
-    "bibliography": ""
-  },
+
   {
     "id": 5,
     "name": "East Asia & Pacific",
     "imgUrl": "/eastasia.jpg",
-    "prompt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...",
+    "prompt": "",
     "author": "Allah Bachayo",
     "blog": "",
     "bibliography": ""
