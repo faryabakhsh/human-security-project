@@ -63,20 +63,23 @@
   },
   {
     "id": 4,
+    "name": "East Asia & Pacific",
+    "imgUrl": "/aadilposter2.jpeg",
+    "prompt": "Body image and physical attractiveness are commonly cited insecurities in many societies. In Indonesia, people feel insecure about their weight, height, skin color, facial features, or other physical attributes due to societal beauty standards and pressures.",
+    "author": "Allah Bachayo",
+    "blog": "",
+    "bibliography": [
+      "https://journals.sagepub.com/doi/pdf/10.1177/0379572120977452",
+      "https://assembly.malala.org/stories/how-colonialism-has-shaped-beauty-standards-in-indonesia",
+      "https://jakartaglobe.id/culture/true-beauty-eye-beholden"
+    ]
+  },
+  {
+    "id": 5,
     "name": "The Americas",
     "imgUrl": "/Africa.jpg",
     "prompt": "",
     "author": "Wajahat Kareem",
-    "blog": "",
-    "bibliography": ""
-  },
-
-  {
-    "id": 5,
-    "name": "East Asia & Pacific",
-    "imgUrl": "/eastasia.jpg",
-    "prompt": "",
-    "author": "Allah Bachayo",
     "blog": "",
     "bibliography": ""
   }
