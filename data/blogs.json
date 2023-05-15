@@ -77,10 +77,14 @@
   {
     "id": 5,
     "name": "The Americas",
-    "imgUrl": "/Africa.jpg",
+    "imgUrl": "/americas.jpg",
     "prompt": "",
     "author": "Wajahat Kareem",
     "blog": "",
-    "bibliography": ""
+    "bibliography": [
+      "https://journals.sagepub.com/doi/pdf/10.1177/0379572120977452",
+      "https://assembly.malala.org/stories/how-colonialism-has-shaped-beauty-standards-in-indonesia",
+      "https://jakartaglobe.id/culture/true-beauty-eye-beholden"
+    ]
   }
 ]
